@@ -1,0 +1,60 @@
+Privacy Policy for Space Duels
+
+Effective Date: 2023-07-27
+
+Bear In Mind values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal data when you use our mobile game application "Space Duels" ("the App").
+
+Information We Collect
+
+
+1.1. Information You Provide
+
+When you use the App, we may collect the following information that you provide to us voluntarily:
+
+Your Google Play Games Services Account Information: When you sign in to your Google Play Games Services account within the App, we may collect your account information, including your Google account ID, username, and email address. This information is required for accessing Google game achievements and providing a personalized gaming experience.
+
+
+1.2. Information Automatically Collected
+
+We may automatically collect certain information when you use the App, including:
+
+Device Information: We may collect information about your mobile device, including its model, operating system version, unique device identifiers, and mobile network information. This data is used to ensure compatibility and improve app performance.
+
+
+1.3. In-App Purchases
+
+When you make in-app purchases or volunteer backing payments in the App, we do not collect or store your payment information. Google Play Billing handles all payment transactions securely, and we receive only a transaction confirmation from Google once the payment is successful.
+
+How We Use Your Information
+We use the information collected from you for the following purposes:
+
+To provide, maintain, and improve the App's functionality and user experience.
+To offer and track your progress in Google game achievements across devices.
+To process and confirm in-app purchases or volunteer backing payments.
+To communicate with you regarding App-related updates, new features, and promotions (you can opt-out of these communications at any time).
+To comply with legal obligations and resolve disputes.
+Data Sharing and Disclosure
+We do not sell, trade, or transfer your personal information to third parties for marketing purposes. However, we may share your information in the following circumstances:
+
+With service providers: We may share your information with third-party service providers who help us operate the App and provide services, such as hosting, analytics, and customer support. These service providers are bound by confidentiality agreements and are prohibited from using your personal information for any other purposes.
+
+In case of legal obligations: We may share your information to comply with legal requirements, such as responding to court orders or governmental requests, enforcing our policies, or protecting our rights, property, or safety.
+
+Data Retention
+We will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+Your Choices
+You have the following rights regarding your personal information:
+
+Access and Update: You can access and update your Google Play Games Services account information within the App's settings.
+
+Opt-out: You can opt-out of receiving promotional emails from us by following the unsubscribe instructions provided in the email.
+
+Data Security
+We take appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.
+
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revised "Effective Date." We encourage you to review this Privacy Policy periodically for any updates.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [Contact Email Address].
