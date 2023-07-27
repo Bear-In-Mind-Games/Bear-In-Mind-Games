@@ -2,7 +2,7 @@ Privacy Policy for Space Duels
 
 Effective Date: 2023-07-27
 
-Bear In Mind values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal data when you use our mobile game application "Space Duels" ("the App").
+Bear In Mind values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal data when you use our mobile game application "Space Duels".
 
 Information We Collect
 
@@ -57,4 +57,4 @@ Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revised "Effective Date." We encourage you to review this Privacy Policy periodically for any updates.
 
 Contact Us
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [Contact Email Address].
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at bear.in.mind.bjorn@gmail.com
